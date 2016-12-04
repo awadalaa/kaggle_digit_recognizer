@@ -1,3 +1,9 @@
+.DS_Store
+input/
+notebooks/model*
+notebooks/checkpoint
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
